@@ -1,0 +1,26 @@
+    .srch
+    {
+      padding-left: 1000px;
+
+    }
+    
+    body {
+
+  font-family: "Lato", sans-serif;
+  
+}
+
+
+
+
+.book
+{
+    width: 400px;
+    margin: 0px auto;
+}
+.form-control
+{
+  background-color: white;
+  color: black;
+  height: 40px;
+}

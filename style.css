@@ -1,0 +1,129 @@
+
+.wrapper
+{
+	height: 660px;
+	width: 1600px;
+	/*background-color: red;*/
+}
+header
+{
+	height: 130px;
+	width: 1600px;
+	background-color: black;
+	padding: 10px;
+}
+section
+{
+	height: 550px;
+
+	width: 1600px;
+	background-color: grey;
+}
+footer
+{
+	
+	width: 1600px;
+	background-color: black;
+}
+.logo
+{
+	float :left;
+	padding-left: 20px;
+
+}
+.logo img 
+{
+	padding-left: 80px;
+}
+
+li a
+{
+	color: red;
+	text-decoration: none;
+	
+	
+	/*font-size: 150%;*/
+
+
+}
+
+/*nav
+{
+	float: right;
+	word-spacing: 30px;
+	padding: 20px;
+}
+nav li 
+{
+	display: inline-block;
+	line-height: 80px;
+}*/
+
+section .sec_img
+{
+	height: 550px;
+	margin-top: 0px;
+	background-image: url("images/floor.jpg");
+}
+.box
+{
+	height: 300px;
+	width: 450px;
+	background-color: black;
+	margin: 70px auto;
+		
+	color: white;
+}
+
+/*--------------------------------st_login-----------------------------*/
+
+.log_img
+{
+	height: 750px;
+	margin-top: 0px;
+	background-image: url("images/bok.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box1
+{
+	height: 500px;
+	width: 450px;
+	background-color: black;
+	margin: 70px auto;
+	opacity:1;
+	color: white;
+	padding: 20px;
+	border: 4px solid grey;
+}
+form .login
+{
+	margin: auto 50px;
+}
+input
+{
+	height: 25px;
+	width: 300px;
+
+}
+.reg_img
+{
+	height: 800px;
+	margin-top: 0px;
+	background-image: url("images/bok.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 1600px;
+}
+.box2
+{
+	height: 700px;
+	width: 450px;
+	background-color: black;
+	margin-left: 500px;
+
+	opacity: 1;
+	color: white;
+	padding: 20px;
+	
+}
